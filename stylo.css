@@ -1,6 +1,6 @@
 body
 {
-  background-image: url("Black.png");
+  background-color: orange;
 }
 .protop
 {
@@ -12,7 +12,11 @@ ul
   list-style: none;
 padding-left: 0;
 }
-.section profile-content
+.profile-content
 {
-  background-color: cream;
+  background-color: #FDC4B8;
+}
+.presentation-subtitle
+{
+
 }
